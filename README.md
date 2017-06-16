@@ -16,6 +16,6 @@ Acess the apllication using http://localhost:3000
 ## Reminder
 
 1) Just in case the browser complains about any failed dependency, run "npm run postinstall"
-2) Do set the proxy configurations in ".bowerrc" file if trying to install bower dependencies
+2) Do set the proxy configurations in ".bowerrc" file if trying to install bower dependencies behind a proxy
 
 
