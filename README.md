@@ -1,4 +1,4 @@
-# Accion Labs Fron end test
+# Accion Labs Front end test
 
 
 ## Install
@@ -13,7 +13,7 @@ Acess the apllication using http://localhost:3000
 2. To execute the unit-test  run the command "npm run test"
 
 
-##Reminder
+## Reminder
 
 1) Just in case the browser complains about any failed dependency, run "npm run postinstall"
 2) Do set the proxy configurations in ".bowerrc" file if trying to install bower dependencies
