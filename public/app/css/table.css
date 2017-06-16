@@ -1,0 +1,29 @@
+body{
+    font-family: "Open Sans",arial,sans-serif;
+}
+table {
+ border-spacing: 0;
+ 
+}
+
+table, th, td{
+    padding: 10px;
+}
+
+table th{
+    background-color: #0066cc;
+    text-align: left;
+    cursor: pointer;
+}
+
+
+table tr:nth-child(even) td{
+    background-color:  #ccccff
+}
+
+.sortorder:after {
+  content: '\25b2';   
+}
+.sortorder.reverse:after {
+  content: '\25bc';   
+}
